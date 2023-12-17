@@ -1,9 +1,4 @@
-//
-//  ______2App.swift
-//  проект2
-//
-//  Created by Богдан Топорин on 02.12.2023.
-//
+
 
 import SwiftUI
 
